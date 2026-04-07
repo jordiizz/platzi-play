@@ -1,4 +1,4 @@
-package com.platzi_play;
+package com.platzi.play;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
